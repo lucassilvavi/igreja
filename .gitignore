@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/public/assets/vendor
+/public/storage/*
+/public/uploads/*
+Homestead.yaml
+Homestead.json
+.env
+
+sonar-project.properties
+nbproject/*
+.idea/*
+.sonar/*
+.buildpath
+.project
+.settings/org.eclipse.core.resources.prefs

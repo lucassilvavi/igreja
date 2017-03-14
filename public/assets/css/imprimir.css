@@ -1,0 +1,10 @@
+@media print{
+    #printTeste{
+        background-color: #0000FF;
+    }
+    .boxDtl span{
+        display: block;
+        font-weight: bold;
+    }
+}
+

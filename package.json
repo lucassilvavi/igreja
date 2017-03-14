@@ -1,0 +1,19 @@
+{
+  "private": true, "scripts": {
+    "prod": "gulp --production", "dev": "gulp watch"
+  }, "devDependencies": {
+    "bootstrap-sass": "^3.3.7", "gulp": "^3.9.1", "jquery": "^3.1.0", "laravel-elixir": "^6.0.0-11", "laravel-elixir-vue-2": "^0.2.0", "laravel-elixir-webpack-official": "^1.0.2", "lodash": "^4.16.2", "vue": "^2.0.1", "vue-resource": "^1.0.3", "name": "jQuery.print", "filename": "jQuery.print.min.js", "version": "1.5.1", "homepage": "https://doersguild.github.io/jQuery.print/", "authors": [
+    "Sathvik P <sathvik@doersguild.com>"
+  ], "description": "Easy to use, Element Printing Plugin for jQuery, for printing specific parts of a page", "keywords": [
+    "print", "element printing", "jquery print"
+  ], "dependencies": {
+    "jquery": ">=1.7.2"
+  }, "license": "CC-BY", "repository": {
+    "type": "git", "url": "git://github.com/DoersGuild/jQuery.print.git"
+  }, "autoupdate": {
+    "source": "git", "target": "git://github.com/DoersGuild/jQuery.print.git", "basePath": "", "files": [
+      "jQuery.print*"
+    ]
+  }
+  }
+}
